@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: multi_agent_trading_bot
+Version: 0.0.1
+Author: Thangarasu
+Author-email: thangamani1128@gmail.com
+Requires-Python: >=3.10
+Requires-Dist: lancedb
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: langgraph
+Requires-Dist: tavily-python
+Requires-Dist: ipykernel
+Requires-Dist: polygon
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python

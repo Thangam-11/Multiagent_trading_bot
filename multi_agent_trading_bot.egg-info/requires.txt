@@ -5,5 +5,3 @@ langgraph
 tavily-python
 ipykernel
 polygon
-
--e .
