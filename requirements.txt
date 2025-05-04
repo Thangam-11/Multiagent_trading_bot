@@ -8,6 +8,6 @@ streamlit
 fastapi[all]
 uvicorn
 ipykernel
-
+langchain-pinecone
 
 -e .
