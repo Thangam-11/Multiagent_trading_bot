@@ -1,7 +1,10 @@
-lancedb
 langchain
-langchain-community
 langgraph
 tavily-python
-ipykernel
 polygon
+langchain_community
+langchain_google_genai
+streamlit
+fastapi[all]
+uvicorn
+ipykernel
