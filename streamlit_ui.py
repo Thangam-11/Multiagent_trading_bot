@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BASE_URL = "http://localhost:8000"  # Change if backend runs elsewhere
+BASE_URL = "http://localhost:8001"  # Change if backend runs elsewhere
 
 st.set_page_config(
     page_title="Stock Market Multi-Agent Chatbot",
