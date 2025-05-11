@@ -107,6 +107,4 @@ class DataIngestion:
             raise TradingBotException(e, sys)
 
 if __name__ == '__main__':
-
     pass
-

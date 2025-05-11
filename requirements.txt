@@ -9,5 +9,7 @@ fastapi[all]
 uvicorn
 ipykernel
 langchain-pinecone
+langchain_groq
+pypdf
 
 -e .
